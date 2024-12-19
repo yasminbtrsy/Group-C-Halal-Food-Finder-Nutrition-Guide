@@ -15,7 +15,7 @@ Group C: Halal Food Finder &amp; Nutrition Guide
 ---
 
 ### Introduction
-Provide a brief overview of your proposed web application. Explain its purpose and the problem it aims to solve.
+....
 
 ---
 
