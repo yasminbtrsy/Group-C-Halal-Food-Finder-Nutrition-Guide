@@ -10,7 +10,7 @@ Group C: **[HalalLife]** Halal Food Finder &amp; Nutrition Guide
 - **Name**: YASMIN BATRISYIA BINTI MAZLAN, **Matric No**: 2221380
   
 ### Title
-**HALALLIFE: Halal Food Finder &amp; Nutrition Guide**
+**HalalLife**: Halal Food Finder &amp; Nutrition Guide
 
 ---
 
