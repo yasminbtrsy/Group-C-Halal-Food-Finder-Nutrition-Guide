@@ -46,8 +46,8 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 ### Sequence Diagram
 
+![sequence diagram web app](https://github.com/user-attachments/assets/eafa39cc-be5c-4af7-95c8-5e84af40998f)
 
----
 
 ### References
 1. 
