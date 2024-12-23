@@ -1,4 +1,4 @@
-# Group-C-Halal-Food-Finder-Nutrition-Guide
+# Group-C-Halal-Life
 Group C: Halal Food Finder &amp; Nutrition Guide
 # MVC Web Application Proposal
 
