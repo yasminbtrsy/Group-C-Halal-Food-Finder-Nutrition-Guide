@@ -15,7 +15,11 @@ Group C: Halal Food Finder &amp; Nutrition Guide
 ---
 
 ### Introduction
-Halal Food Finder & Nutrition Guide is an integrated and fully featured website that is intended as a tool to help users find halal foods. Nowadays, people can face some problems in search of the necessary and sufficient information concerning halal meals or restaurants mainly due to the multicultural and globalized world. This is especially important given that conventional methods of accessing such information remain fragmented, and this platform seeks to be an all-in-one website for halal restaurant suggestions, and nutritional tips. Built on Laravel, the website provides a convenient search for halal restaurants and stimulates proper nutrition within the framework of Shariah rules.
+The Halal Food Finder and Nutrition Guide is a comprehensive web application designed to cater to the growing demand for halal-certified food options and nutrition-focused meal planning. This platform bridges the gap between modern dietary needs and Islamic principles, offering users a centralized hub for discovering halal restaurants, verifying halal food products, accessing nutritional information, and exploring meal planning and recipes.
+
+With features like location-based halal restaurant search, and Sunnah-inspired dietary tips and hadith, the application is tailored to support a halal, healthy, and balanced lifestyle. Users can track their nutritional intake, plan meals, and share their favorite halal recipes, fostering a sense of community and collaboration.
+
+Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide seamlessly combines user-friendly design with advanced technology to empower individuals to make informed and faith-aligned dietary choices.
 
 ---
 
