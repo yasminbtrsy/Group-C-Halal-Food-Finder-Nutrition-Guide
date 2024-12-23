@@ -20,7 +20,11 @@ Halal Food Finder & Nutrition Guide is an integrated and fully featured website 
 ---
 
 ### Objectives
-- 
+- Facilitate Halal Food Accessibility: Enable users to locate halal-certified restaurants and products through advanced search and filter features.
+- Promote Nutritional Awareness: Provide detailed nutritional content for halal foods and allow users to track daily intake to maintain a balanced diet.
+- Educate on Islamic Dietary Laws: Offer a knowledge hub for halal and haram foods with supporting evidence from Islamic texts, along with Sunnah-based tips for balanced eating.
+- Streamline Meal Planning: Help users design weekly halal meal plans that align with their dietary preferences and nutritional needs.
+- Leverage Modern Technologies: Utilize Laravel's MVC architecture, and Google Maps API to deliver a seamless, dynamic, and user-friendly experience. 
 
 ---
 
