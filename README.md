@@ -41,7 +41,7 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 ### Database Design (ERD)
 
-
+![Screenshot (273)](https://github.com/user-attachments/assets/d55df917-01a8-45f0-8c17-a45a86dd43a8)
 ---
 
 ### Sequence Diagram
