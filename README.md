@@ -33,35 +33,35 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ---
 
 ### Features and Functionalities
-- **Feature 1**: Halal Restaurant Finder
+**Feature 1**: Halal Restaurant Finder
 -  Location based search for halal-certified restaurants with filtering options
 -  Displays a list of halal-certified restaurants.
 -  Restaurant details, including menus and certifications.
 -  Users can search for specific restaurants or filter based on preferences.
-- **Feature 2**: Halal Product Verification
+ **Feature 2**: Halal Product Verification
 - Showcases halal-certified products with certification details.
 - Offers a search feature for finding specific product
 - Users can browse and verify halal products.
 - Displays product information, including certifying body and validity.
-- **Feature 3**: Nutritional Information
+ **Feature 3**: Nutritional Information
 - Track daily nutritional intake and monitor health goals
 - Provides nutritional details of halal food items
 - Users can browse and compare nutritional data for informed meal choices
-- **Feature 4**: Sunnah Inspired Dietry Tips
+ **Feature 4**: Sunnah Inspired Dietry Tips
 - Access Sunnah based advice and hadith on balanced eating
 - Provides guidance on healthy eating habits, including portion control and meal timing
 - Users can explore visual tips and hadith for inspiration.
 - Links to additional educational resources on Islamic dietary practices
-- **Feature 5**: Meal Planner
+ **Feature 5**: Meal Planner
 - Create and manage weekly halal meal plans
 - Categorizes meals into breakfast, lunch, dinner, and snacks.
 - Interactive meal planning tool for weekly organization.
 - Option to add or modify meals based on dietary goals.
-- **Feature 6**: Interactive Map Integration
+ **Feature 6**: Interactive Map Integration
 - Utilize Google Maps API for easy navigation to halal restaurants
-- **Feature 7**: User-Friendly Interface
+  **Feature 7**: User-Friendly Interface
 - Seamless design for an intuitive user experience
-- **Feature 8**: Community Engagement
+  **Feature 8**: Community Engagement
 - foster collaboration through recipe sharing and dietry discussions
 
 ---
