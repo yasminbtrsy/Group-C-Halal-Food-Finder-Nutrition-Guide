@@ -33,9 +33,24 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ---
 
 ### Features and Functionalities
-- **Feature 1**: Description
-- **Feature 2**: Description
-- **Feature 3**: Description
+- **Feature 1**: Halal Restaurant Finder
+- Location based search for halal-certified restaurants with filtering options
+- **Feature 2**: Halal Product Verification
+- Verify halal certification for food
+- **Feature 3**: Nutritional Tracking
+- Track daily nutritional intake and monitor health goals
+- **Feature 4**: Sunnah Inspired Dietry Tips
+- Access Sunnah based advice and hadith on balanced eating
+- **Feature 5**: Meal Planning
+- Create and manage weekly halal meal plans
+- **Feature 6**: Recipe Sharing
+- Share and discover halal recipes with the community
+- **Feature 7**: Interactive Map Integration
+- Utilize Google Maps API for easy navigation to halal restaurants
+- **Feature 8**: User-Friendly Interface
+- Seamless design for an intuitive user experience
+- **Feature 9**: Community Engagement
+- Foster collaboration through recipe sharing and dietry discussions
 
 ---
 
