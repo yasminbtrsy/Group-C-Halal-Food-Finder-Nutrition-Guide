@@ -3,7 +3,7 @@ Group C: **[HalalLife]** Halal Food Finder &amp; Nutrition Guide
 # MVC Web Application Proposal
 
 ### Group C Members
-- **Name**: MONIR, **Matric No**: 2128031
+- **Leader Name**: MONIR, **Matric No**: 2128031
 - **Name**: SITI SARAH BINTI ROSMAN, **Matric No**: 2021128
 - **Name**: SITI ZULFAH IZZATY BINTI ZULKEFLE, **Matric No**: 2212648
 - **Name**: NUR IZZAH NABIHAH BINTI SALLEH, **Matric No**: 2216522
