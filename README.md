@@ -15,7 +15,7 @@ Group C: **[HalalLife]** Halal Food Finder &amp; Nutrition Guide
 ---
 
 ### Introduction
-The Halal Food Finder and Nutrition Guide is a comprehensive web application designed to cater to the growing demand for halal-certified food options and nutrition-focused meal planning. This platform bridges the gap between modern dietary needs and Islamic principles, offering users a centralized hub for discovering halal restaurants, verifying halal food products, accessing nutritional information, and exploring meal planning and recipes.
+The Halal Food Finder and Nutrition Guide is a comprehensive web application designed to cater to the growing demand for halal-certified food options and nutrition-focused meal planning. This platform bridges the gap between modern dietary needs and Islamic principles, offering users a centralized hub for discovering halal restaurants, verifying halal food products, accessing nutritional information, and planning your meals.
 
 With features like location-based halal restaurant search, and Sunnah-inspired dietary tips and hadith, the application is tailored to support a halal, healthy, and balanced lifestyle. Users can track their nutritional intake, plan meals, and share their favorite halal recipes, fostering a sense of community and collaboration.
 
@@ -43,13 +43,11 @@ Track daily nutritional intake and monitor health goals
 Access Sunnah based advice and hadith on balanced eating
 - **Feature 5**: Meal Planning
 Create and manage weekly halal meal plans
-- **Feature 6**: Recipe Sharing
-Share and discover halal recipes with the community
-- **Feature 7**: Interactive Map Integration
+- **Feature 6**: Interactive Map Integration
 Utilize Google Maps API for easy navigation to halal restaurants
-- **Feature 8**: User-Friendly Interface
+- **Feature 7**: User-Friendly Interface
 Seamless design for an intuitive user experience
-- **Feature 9**: Community Engagement
+- **Feature 8**: Community Engagement
 Foster collaboration through recipe sharing and dietry discussions
 
 ---
@@ -66,7 +64,7 @@ Foster collaboration through recipe sharing and dietry discussions
 
 ### References
 1. Halal Malaysia Portal. (2024). Retrieved December 23, 2024, from Halal.gov.my website: https://myehalal.halal.gov.my/portal-halal/v1/index.php
+2. Verify Halal. (2014). Retrieved December 23, 2024, from Verifyhalal.com website: https://www.verifyhalal.com/
 
-2‌.Verify Halal. (2014). Retrieved December 23, 2024, from Verifyhalal.com website: https://www.verifyhalal.com/
 
 ‌
