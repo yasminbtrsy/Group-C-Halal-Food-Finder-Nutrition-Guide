@@ -35,6 +35,9 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ### Features and Functionalities
 - **Feature 1**: Halal Restaurant Finder
   :Location based search for halal-certified restaurants with filtering options
+  -Displays a list of halal-certified restaurants.
+  -Filtering options based on cuisine, ratings, and proximity.
+  -Restaurant details, including menus and certifications.
 - **Feature 2**: Halal Food Verification
   :Verify halal certification for food
 - **Feature 3**: Nutritional Tracking
