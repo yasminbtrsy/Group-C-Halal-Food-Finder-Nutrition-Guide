@@ -77,7 +77,8 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 
 ### Website Template/Mockup
-https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103003.png
+
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103003.png).
 
 
 
