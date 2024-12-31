@@ -78,7 +78,28 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 ### Website Template/Mockup
 
-![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103003.png).
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103003.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103020.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103051.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103035.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103102.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103116.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103133.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103142.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103210.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103225.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103238.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103309.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103324.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103335.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103344.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103352.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103407.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103416.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103431.png)
+
+
+
 
 
 
