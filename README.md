@@ -89,7 +89,6 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103210.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103225.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103238.png)
-![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103309.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103324.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103335.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103344.png)
@@ -98,10 +97,7 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103416.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/Screenshot%202024-12-31%20103431.png)
 
-
-
-
-
+---
 
 ### References
 1. Halal Malaysia Portal. (2024). Retrieved December 23, 2024, from Halal.gov.my website: https://myehalal.halal.gov.my/portal-halal/v1/index.php
