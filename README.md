@@ -79,6 +79,7 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 ### References
 1. Halal Malaysia Portal. (2024). Retrieved December 23, 2024, from Halal.gov.my website: https://myehalal.halal.gov.my/portal-halal/v1/index.php
 2. Verify Halal. (2014). Retrieved December 23, 2024, from Verifyhalal.com website: https://www.verifyhalal.com/
+3. Website template link: https://www.figma.com/proto/pGoPtbgdcvdFNgDC6KKRuN/WebApp-Mockups?page-id=0%3A1&node-id=2-2&viewport=1688%2C2133%2C0.13&t=AQJtzjIGsQyVZe1T-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A5
 
 
 ‌
