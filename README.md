@@ -53,7 +53,7 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 - Users can explore visual tips and hadith for inspiration.
 - Links to additional educational resources on Islamic dietary practices
 -  **Feature 5**: Meal Planner
-- Create and manage weekly halal meal plans
+- Create and manage everyday meal plans
 - Categorizes meals into breakfast, lunch, dinner, and snacks.
 - Interactive meal planning tool for weekly organization.
 - Option to add meals to track your meals intake.
@@ -62,7 +62,7 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 -  **Feature 7**: User-Friendly Interface
 - Seamless design for an intuitive user experience
 -  **Feature 8**: Community Engagement
-- foster collaboration through recipe sharing and dietry discussions
+- Foster collaboration through sharing meals here.
 
 ---
 
