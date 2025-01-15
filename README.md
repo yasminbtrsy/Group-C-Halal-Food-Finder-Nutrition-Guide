@@ -131,7 +131,7 @@ Add new meal page:
 
 
 ### What is the challenge/difficulties to develop the application
-
+- Having difficulties in directing routes and database
 
 ---
 
