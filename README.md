@@ -104,31 +104,38 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 ### Project system captured screen and explanation
 
-Home page:
+**Home page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/1.png)
-Signup page:
+**Signup page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/2.png)
-Log in page:
+**Log in page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/3.png)
-Halal Restaurant Page:
+**Halal Restaurant Page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/4.png)
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/5.png)
-Search by restaurant name:
+**Search by restaurant name:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/6.png)
-Halal product page:
+**Halal product page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/7.png)
+
 The Explore Halal Certified Products page serves as a gateway for users to discover halal-certified products across various categories. The main content is centered around the title "Explore Halal Certified Products", accompanied by a visually distinct "Explore certified products" button. This button serves as a call-to-action, redirecting users to a comprehensive product listing or search page. Below this, the interface highlights five main product categories—Beverages, Cosmetics & Personal Care, Food, Nutritional & Dietary Supplements, and Pharmaceuticals—each displayed in a card-based format with vibrant images and descriptive labels. These clickable cards allow users to navigate directly to the product lists for the selected category, making it easier to find relevant items.
 
-Explore the certified products page:
+**Explore the certified products page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/8.png)
+
 The Certified Halal Products page of the Halal Food Finder and Nutrition Guide application serves as a comprehensive platform for users to explore halal-certified products with ease. The page is designed with a clear and functional layout, beginning with the title "Certified Halal Products" to emphasize its purpose. Beneath the header, users are provided with robust search functionality, including input fields to search by product name or company name. A dedicated Search button processes these inputs and dynamically updates the product listing, while a Clear Filters button allows users to reset the search and display all available products. The product list is displayed in a clean, card-based grid format, with each card showcasing essential details such as the product name, company name, and a green "Certified Halal" badge to signify compliance with halal standards. The page also includes pagination controls, with Previous and Next buttons enabling users to navigate through multiple pages of results, accompanied by a counter indicating the current range of products displayed.
-Nutritional information page:
+
+**Nutritional information page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/10.png)
-Meal planner page:
+**Meal planner page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/11.png)
-Add new meal page:
+
+Meal Planner Page is designed for the user to view and manage their meals on a daily basis. This page allow user to pre-plan their meals for the day and tracks what they have consumed. By using this page, users can stay consistent with their dietary goals, maintain a balanced diet, and improve their overall health as the page also provides the ability to review past meals and make adjustments based on personal preferences or dietary restrictions, ensuring a personalized approach to meal planning and tracking.
+
+**Add new meal page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/12.png)
-![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/13.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/13.png
+This Add Meal Page allows user to input and customize the details of their daily meals, making it an essential feature for a meal planning and tracking.On this page, users can add individual meals, description of the food items, and even the image of the meal. Users can also categorize meals by type (breakfast, lunch, and dinner).This feature helps users accurately monitor their dietary habits and customize their meal plans based on personal preferences, dietary restrictions, or goals.
 
 ---
 
