@@ -119,7 +119,6 @@ Halal product page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/7.png)
 Explore the certified products page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/8.png)
-![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/9.png)
 Nutritional information page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/10.png)
 Meal planner page:
