@@ -7,8 +7,8 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\Auth\AuthenticatedSessionController;
 use App\Http\Controllers\RegistrationController;
 use App\Http\Controllers\HalalProductController;
-
-
+use App\Http\Controllers\MealController;
+use App\Http\Controllers\NutritionalInformationtController;
 
 Route::get('/', function () {
     return view('mainpage');
@@ -30,3 +30,17 @@ Route::get('/restaurants', [RestaurantController::class, 'showRestaurants'])->na
 Route::get('/', [HalalProductController::class, 'index'])->name('home');
 Route::get('/products', [HalalProductController::class, 'products'])->name('products');
 Route::get('/products/{category}', [HalalProductController::class, 'category'])->name('products.category');
+
+// Meal routes
+Route::resource('meals', MealController::class);
+
+Route::get('/add-meal', function () {
+    return view('add-meal');
+});
+
+Route::get('meal', [MealController::class, 'index']);
+Route::resource('addmeal', MealController::class);
+
+
+Route::get('/nutrition', [NutritionalInformationtController::class, 'index'])->name('nutrition');
+

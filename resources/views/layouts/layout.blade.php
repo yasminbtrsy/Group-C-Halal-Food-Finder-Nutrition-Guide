@@ -41,8 +41,8 @@
         <ul>
           <li><a href="{{ route('halalrestaurants') }}">Halal Restaurant</a></li>
           <li><a href="{{ route('home') }}">Halal Product</a></li>
-          <li><a href="#events">Nutritional Information</a></li>
-          <li><a href="#chefs">Meal Planner</a></li>
+          <li><a href="{{ route('nutrition') }}">Nutritional Informationt</a></li>
+          <li><a href="{{ route('meals.index') }}">Meal Planner</a></li>
           <li><a href="#gallery">Tips and Hadith</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
