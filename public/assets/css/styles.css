@@ -1,0 +1,123 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #28a745;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.card-header {
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: white;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.card-text {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+#food-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+#food-container .col-md-3 {
+    flex: 0 0 200px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#food-container img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: auto;
+}
+
+#food-container .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#food-container .btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.input-group input {
+    border: 2px solid #28a745;
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    font-size: 1rem;
+}
+
+.input-group button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.input-group button:hover {
+    background-color: #218838;
+}
+
+footer {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    #food-container .col-md-3 {
+        flex: 0 0 45%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #food-container .col-md-3 {
+        flex: 0 0 90%;
+    }
+}
