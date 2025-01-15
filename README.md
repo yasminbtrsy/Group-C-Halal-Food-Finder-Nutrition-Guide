@@ -135,6 +135,10 @@ Add new meal page:
 
 ### What is the challenge/difficulties to develop the application
 - Having difficulties in directing routes and database
+- Hard to manage search performance for large datasets without noticable delays
+- Managing error handling for incomplete or incorrect submissions
+- Difficulty in sourcing reliable and accurate databases
+- Hard to develop a recommendation system that provides personalized food or product suggestions
 
 ---
 
