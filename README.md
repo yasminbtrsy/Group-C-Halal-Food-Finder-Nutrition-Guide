@@ -134,7 +134,8 @@ Meal Planner Page is designed for the user to view and manage their meals on a d
 
 **Add new meal page:**
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/12.png)
-![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/13.png
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/13.png)
+
 This Add Meal Page allows user to input and customize the details of their daily meals, making it an essential feature for a meal planning and tracking.On this page, users can add individual meals, description of the food items, and even the image of the meal. Users can also categorize meals by type (breakfast, lunch, and dinner).This feature helps users accurately monitor their dietary habits and customize their meal plans based on personal preferences, dietary restrictions, or goals.
 
 ---
