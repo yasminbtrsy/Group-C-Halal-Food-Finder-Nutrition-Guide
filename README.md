@@ -115,8 +115,9 @@ Halal Restaurant Page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/5.png)
 Search by restaurant name:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/6.png)
-Halal product page:The Explore Halal Certified Products page serves as a gateway for users to discover halal-certified products across various categories. The main content is centered around the title "Explore Halal Certified Products", accompanied by a visually distinct "Explore certified products" button. This button serves as a call-to-action, redirecting users to a comprehensive product listing or search page. Below this, the interface highlights five main product categories—Beverages, Cosmetics & Personal Care, Food, Nutritional & Dietary Supplements, and Pharmaceuticals—each displayed in a card-based format with vibrant images and descriptive labels. These clickable cards allow users to navigate directly to the product lists for the selected category, making it easier to find relevant items.
+Halal product page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/7.png)
+The Explore Halal Certified Products page serves as a gateway for users to discover halal-certified products across various categories. The main content is centered around the title "Explore Halal Certified Products", accompanied by a visually distinct "Explore certified products" button. This button serves as a call-to-action, redirecting users to a comprehensive product listing or search page. Below this, the interface highlights five main product categories—Beverages, Cosmetics & Personal Care, Food, Nutritional & Dietary Supplements, and Pharmaceuticals—each displayed in a card-based format with vibrant images and descriptive labels. These clickable cards allow users to navigate directly to the product lists for the selected category, making it easier to find relevant items.
 
 Explore the certified products page:
 ![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/8.png)
