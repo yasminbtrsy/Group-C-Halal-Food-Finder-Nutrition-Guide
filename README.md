@@ -104,6 +104,19 @@ Built on the robust Laravel framework, the Halal Food Finder and Nutrition Guide
 
 ### Project system captured screen and explanation
 
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/1.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/2.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/3.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/4.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/5.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/6.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/7.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/8.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/9.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/10.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/11.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/12.png)
+![website template](https://github.com/yasminbtrsy/Group-C-Halal-Food-Finder-Nutrition-Guide/blob/main/13.png)
 
 ---
 
